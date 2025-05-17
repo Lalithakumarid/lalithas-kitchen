@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vegetarian Biriyani/Rice Items</title>
+</head>
+<body>
+    <h1>Vegetarian Biriyani/Rice Items</h1>
+    <p>Here you can add your recipes for vegetarian biriyani and rice items!</p>
+</body>
+</html>
